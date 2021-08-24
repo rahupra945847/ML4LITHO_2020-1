@@ -8,6 +8,6 @@ dependencies:
   - pandas
   - tensorboard = 1.12
   - tensorflow = 1.12
-  - pip:
-    - beholder
-    - jupyter-tensorboard
+ # - pip:
+ #   - beholder
+ #   - jupyter-tensorboard
